@@ -1,0 +1,30 @@
+{
+  "name": "totalvoiceapi",
+  "version": "1.0.0",
+  "description": "API de comunicação com o serviço de envio de SMS e ligações TotalVoice (http://totalvoice.com.br)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonystein/totalvoiceapi-node.git"
+  },
+  "keywords": [
+    "totalvoice",
+    "sms",
+    "node",
+    "lib",
+    "api",
+    "voip"
+  ],
+  "author": "Jhony Pereira <jhonystein@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhonystein/totalvoiceapi-node/issues"
+  },
+  "homepage": "https://github.com/jhonystein/totalvoiceapi-node#readme",
+  "dependencies": {
+    "got": "^7.1.0"
+  }
+}
