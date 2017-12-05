@@ -10,7 +10,7 @@ Cliente em JavaScript/NodeJS para API da [Totalvoice](http://totalvoice.com.br)
 - [ ] Consulta e envio de Audio
 - [ ] Consulta e envio de Composto
 - [ ] Consulta e envio de Conferência
-- [ ] Gerenciamento da Conta
+- [X] Gerenciamento da Conta
 - [ ] Gerenciamento da Central
 - [ ] Gerenciamento de DID
 
