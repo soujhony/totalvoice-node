@@ -1,11 +1,11 @@
 # totalvoiceapi-node
 
-Cliente em JavaScript/NodeJS para API da Totalvoice (http://totalvoice.com.br)
+Cliente em JavaScript/NodeJS para API da [Totalvoice](http://totalvoice.com.br)
 
 ## Funcionalidades
 
 - [ ] Gerenciamento das chamadas
-- [ ] Consulta e envio de SMS
+- [X] Consulta e envio de SMS
 - [ ] Consulta e envio de TTS
 - [ ] Consulta e envio de Audio
 - [ ] Consulta e envio de Composto
@@ -16,7 +16,10 @@ Cliente em JavaScript/NodeJS para API da Totalvoice (http://totalvoice.com.br)
 
 ## Requisitos
 
+- NodeJS versão 6.0 ou superior
+
 ## Instalação
+
 
 ## Exemplos de utilização
 
