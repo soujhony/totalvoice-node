@@ -1,4 +1,4 @@
 module.exports = {
-  sms: require('./lib/sms'),
-  conta: require('./lib/conta')
+  Sms: require('./lib/sms'),
+  Conta: require('./lib/conta')
 }
