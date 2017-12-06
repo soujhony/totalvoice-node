@@ -1,5 +1,12 @@
 module.exports = {
-  Sms: require('./lib/sms'),
+  Audio: require('./lib/audio'),
+  Perfil: require('./lib/perfil'),
   Conta: require('./lib/conta'),
-  Perfil: require('./lib/perfil')
+  Composto: require('./lib/composto'),
+  Chamada: require('./lib/chamada'),
+  Conferencia: require('./lib/conferencia'),
+  Sms: require('./lib/sms'),
+  Tts: require('./lib/tts'),
+  Central: require('./lib/central'),
+  Did: require('./lib/did')
 }
