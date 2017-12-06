@@ -4,15 +4,15 @@ Cliente em JavaScript/NodeJS para API da [Totalvoice](http://totalvoice.com.br)
 
 ## Funcionalidades
 
-- [ ] Gerenciamento das chamadas
+- [X] Gerenciamento das chamadas
 - [X] Consulta e envio de SMS
-- [ ] Consulta e envio de TTS
-- [ ] Consulta e envio de Audio
-- [ ] Consulta e envio de Composto
-- [ ] Consulta e envio de Conferência
+- [X] Consulta e envio de TTS
+- [X] Consulta e envio de Audio
+- [X] Consulta e envio de Composto
+- [X] Consulta e envio de Conferência
 - [X] Gerenciamento da Conta
-- [ ] Gerenciamento da Central
-- [ ] Gerenciamento de DID
+- [X] Gerenciamento da Central
+- [X] Gerenciamento de DID
 
 ## Requisitos
 
